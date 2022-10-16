@@ -1,9 +1,9 @@
-[![Stars](https://img.shields.io/github/stars/canadianzombies/Replay-To-Tumblr.svg)](https://github.com/canadianzombies/Replay-To-Tumblr/stargazers)
+[![Stars](https://img.shields.io/github/stars/canadianzombies/Replay-To-Tumblr.svg?style=plastic)](https://github.com/canadianzombies/Replay-To-Tumblr/stargazers)
 [![Issues](https://img.shields.io/github/issues/canadianzombies/replay-to-tumblr?style=plastic)](https://github.com/canadianzombies/Replay-To-Tumblr/issues)
-[![Size](https://img.shields.io/github/repo-size/canadianzombies/Replay-To-Tumblr.svg)](https://github.com/canadianzombies/Replay-To-Tumblr)
-[![Discord](https://img.shields.io/discord/234145231359049729?color=7289da&label=Discord&logo=discord)](https://discord.gg/bCsV7km9PE)
-[![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Donate PayPal](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/livesimmy)
+[![Size](https://img.shields.io/github/repo-size/canadianzombies/Replay-To-Tumblr.svg?style=plastic)](https://github.com/canadianzombies/Replay-To-Tumblr)
+[![Discord](https://img.shields.io/discord/234145231359049729?color=7289da&label=Discord&logo=discord?style=plastic)](https://discord.gg/bCsV7km9PE)
+[![Code style](https://img.shields.io/badge/code%20style-black-000000.svg?style=plastic)](https://github.com/psf/black)
+[![Donate PayPal](https://img.shields.io/badge/donate-paypal-blue.svg?style=plastic)](https://www.paypal.me/livesimmy)
 
 
 # Replay-To-Tumblr
